@@ -34,3 +34,4 @@ and folding the chain (`cli digest --verify`).
 | computed_at (UTC) | +rows | values | baskets | snapshots | resolutions | ripples | reads | chain root sha256 | lifecycle sha256 |
 |---|---|---|---|---|---|---|---|---|---|
 | 2026-07-06T06:28:45Z | +21 | 3710 | 1052 | 3921 | 6 | 17 | 10 | `fc8794a1deebfbec3e826b2996aa8031beea9a6b136b61289e811e518d583cbc` | `7b59cd4fae395fbb0a7f0ddf1b8df2ccec194f83fd656e233b375157bb605b62` |
+| 2026-07-07T06:07:09Z | +6 | 3710 | 1052 | 3921 | 6 | 19 | 11 | `494c3121f6a98a7de224d84006b0045576a1b8a2ca803d9b7896020835a991c7` | `ec1aba609634d56cdce1f118666ec065f4140d4d60517b60cf34f7acb1a720b8` |
